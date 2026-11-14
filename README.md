@@ -112,7 +112,7 @@ Final-year student | Expected Graduation: 2027
 
 I'm open to **PFE internships, software engineering opportunities, and collaborative projects** where I can apply my knowledge, develop new skills, and contribute to meaningful solutions.
 
-💼 **LinkedIn:** [My LinkedIn Profile]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/ranim-d-9384673a6/))
+💼 **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/ranim-d-9384673a6/)
 
 📧 **Email:** ranimedoggaz1234@gmail.com
 
