@@ -116,4 +116,4 @@ I'm open to **PFE internships, software engineering opportunities, and collabora
 
 📧 **Email:** ranimedoggaz1234@gmail.com
 
-🌐 **GitHub:** [My Projects]([YOUR_GITHUB_URL](https://github.com/ranimedogaz1234-dot?tab=projects))
+🌐 **GitHub:** [My Projects](https://github.com/ranimedogaz1234-dot?tab=projects)
