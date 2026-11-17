@@ -135,32 +135,7 @@ A full-stack travel application with a modern interface for exploring destinatio
 
 **Focus:** Full-Stack Development · REST APIs · Travel Technology
 
-### 📊 Sephora Business Insight — Business Intelligence Dashboard
 
-**Technologies:** Next.js · React · Python · FastAPI · Pandas · Data Visualization
-
-A data-driven analytics platform designed to explore Sephora product and customer review information.
-
-- Processed a dataset containing thousands of products and over one million reviews.
-- Built interactive dashboards for product and review analytics.
-- Developed data-processing workflows using Python and Pandas.
-- Integrated a FastAPI backend with a modern frontend.
-- Explored product performance, review trends, and business insights.
-
-**Focus:** Business Intelligence · Data Engineering · Analytics
-
-### 📚 Goodbook — Collaborative Full-Stack Project
-
-**Technologies:** Java · Spring Boot · REST APIs · Git · GitHub
-
-A collaborative software development project involving backend APIs and interactive dashboard functionality.
-
-- Worked on Spring Boot backend development.
-- Contributed to API, filtering, and testing work.
-- Collaborated using dedicated feature branches.
-- Practiced GitHub pull-request and code-review workflows.
-
-**Focus:** Backend Engineering · Team Collaboration · API Development
 
 ---
 
