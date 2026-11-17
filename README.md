@@ -159,6 +159,12 @@ A desktop application for hospital administration, patient management, doctor ac
 
 An online shopping platform featuring product management, shopping carts, customer orders, and administrative functionality.
 
+### 📊 Sephora Business Insight:
+
+**Technologies:** Next.js, React, Python, FastAPI, Pandas 
+
+Business intelligence and customer review analytics platform. 
+
 ---
 
 ## 🔐 Cybersecurity & Networking Experience
