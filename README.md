@@ -6,6 +6,8 @@
 
 Passionate about building modern, secure, and user-friendly applications, exploring emerging technologies, and continuously learning.
 
+### 🌐 Live Portfolio: [Visit My Website](https://ranim-portfolio-delta.vercel.app)
+
 ---
 
 ## 👩‍💻 About Me
