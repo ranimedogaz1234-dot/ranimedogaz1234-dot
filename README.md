@@ -8,7 +8,7 @@ Passionate about building modern, secure, and user-friendly applications, explor
 
 ### 🌐 Live Portfolio — Vercel: [Visit My Website](https://ranim-portfolio-delta.vercel.app)
 
-### 🌐 Live Portfolio — GitHub Pages: [Visit My Website](https://ranimedogaz1234-dot.github.io/ranim-portfolio/)
+
 
 ---
 
